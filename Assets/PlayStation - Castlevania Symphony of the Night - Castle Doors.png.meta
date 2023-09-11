@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: c20abc22005fcc0febf3e8c040b471da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad88aecd57681a4b25a1be8caf234d
+      internalID: -335902493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 228
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b97c872092d7aeb8b49c3d04f0e609
+      internalID: 1709579698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 228
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d130734d0a51107d89f8b0e469d9ffea
+      internalID: 1948320751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 228
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc4cb2cd5defcd13b2deaf0dfdefed5
+      internalID: -1462046820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 228
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b861d71b421df12b65396689fd1344
+      internalID: 999322588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 228
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66caffd714b06bab64a8a5168d1913
+      internalID: 5295347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa79daa061b7149813ac9414ab726f
+      internalID: -202233142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 226
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aa3f6e1bb31af75b90df769f243cca
+      internalID: -1489788618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 226
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f74a17d1129011a7a59d2e21decf489
+      internalID: -1735035437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 226
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef3f6d9946bac8ba9a8e0afc4ae1dc1
+      internalID: -811482284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 226
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e35a8fdd7a0351bb5a4eb910fb4f80
+      internalID: -532689803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_23
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 230
+        width: 6
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ef757bc1eb66dcbd95ddb4b47da46
+      internalID: -225477175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5634ea2428d1135af5a22d91bbbf02
+      internalID: 1747475819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 158
+        width: 10
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c50259243d2f84e8e71a8c0773f753
+      internalID: -892549846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 158
+        width: 12
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1922a1c3af9c7293fd0fb47795037
+      internalID: -1118306786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 14
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52466299b6d56281e9aa168c11a30879
+      internalID: -74996099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 158
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8836d2d334caac71eb7cc32da5f3af44
+      internalID: 559040135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 158
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e652d921acb37705d8702446074e7d1f
+      internalID: 723106909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 158
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1791a9a038adad3ea91d6d794335c69d
+      internalID: 1761703224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 158
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f887e304c44cd6348b15a717ff1beca
+      internalID: 401844258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 158
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae4739d166a57498e2e187a529efc8
+      internalID: 555448693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 158
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463d8e8bae0261c278d21f5a1a715edd
+      internalID: -1677497396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_43
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 158
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c88632d79e4eeb3b2715297472cf76
+      internalID: -586504441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_44
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 158
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebf790008551a99da86c708ab1ac360
+      internalID: -2113790547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_45
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 158
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126bc9b4fd255a23931d0949ba5fdaa
+      internalID: -1287403334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 158
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85636e84d388f5bce8d89eae8f803bab
+      internalID: -399093445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_47
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 158
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dbe93ce2bd7b4fb8db49259ab82407
+      internalID: 501139728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_48
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 158
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e42064953862c03bd1babfceed0df9
+      internalID: 2137815158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_49
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 158
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a116fbc8cf72f3f080a51050933b294
+      internalID: -1978893332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 158
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207b22329547425abcf9afac6dee0fb
+      internalID: 561671708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_51
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 158
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd02dc6d3448ecebc83f26e51201fc69
+      internalID: -1604643321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_52
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 158
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de10bb925047d93e9a10e2aa5924e844
+      internalID: -1970693596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 7
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0879bc5b060eefdbfbf950760e3e9a15
+      internalID: -1694681293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_54
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 78
+        width: 13
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c90738b4430082fc848539b926cd97a
+      internalID: -1164950741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 78
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b4e7aa9f1c855384ec80457ec9690
+      internalID: -1874302083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 78
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e10f9b85cfaadeb1aee75998118a0ed
+      internalID: -609122393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_57
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 78
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32319edacd52626cf9df620e282aeaa6
+      internalID: -845600702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_58
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 78
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4db3f810804c8738acbdfa807de70b
+      internalID: -442291907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 78
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d173b1e3e9ef69bf91a398c259e31e8
+      internalID: -81276986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 78
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5941454fd0bd2b23d991a77691532367
+      internalID: 653671076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_61
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 78
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f776922a1aa8568dbffb51323e9626d
+      internalID: -565922265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_62
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 78
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca6e97445015d404a3af9aeb476aa80
+      internalID: -1220945488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_63
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 78
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf6dcb5bc0d20179b0cb70494a77c5
+      internalID: -366016651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_64
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 78
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3c475d8ddc7f268f8f78c951cdc92
+      internalID: -1411221605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680cc6f1356e536dca24002ecf09085a
+      internalID: -1758864211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_66
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 13
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c119cd58e7fe5a6bf581549d02eb4e
+      internalID: -355006912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b08a90b87bdf5e6aaedf39ecb3929cf
+      internalID: -1945768130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3596898bfdd78039a90af18a5e7c77
+      internalID: -2013008975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_69
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff2e5ae7474834f9a0be85f8e49401
+      internalID: -1898966701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_70
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43282e2a29535a2cba06a12c1537d789
+      internalID: -1356079680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_71
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b83e28b81ad5c09724d4d0a12047a
+      internalID: -588012576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6791c4218b319578cfe8c2715956a8
+      internalID: 2062323331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454dc4d07ce2b59cfad9e62985f65043
+      internalID: -1710331984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f08f59d3cdbf44a8acd9a82d6cb6b
+      internalID: 473141245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_75
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375bfee932e9ff4aa8fe230ac00ea65
+      internalID: 1128777725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_76
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb8d2649170b2e08e2f269f94c1a0b
+      internalID: -141947289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Castle Doors_77
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ba02719a44d76788d3bc9921790f72
+      internalID: 1978986387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_0: -335902493
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_1: 1709579698
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_10: 5295347
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_11: -202233142
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_12: -1489788618
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_13: -1735035437
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_14: -811482284
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_15: -532689803
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_16: 97550485
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_17: 628700737
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_18: 1892411441
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_19: 652381841
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_2: 1948320751
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_20: -1435415298
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_21: 1030779054
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_22: 1161084964
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_23: -225477175
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_24: -363041382
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_25: 738389476
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_26: -1314482096
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_27: 1483199946
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_28: 1775489884
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_29: -191576807
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_3: -1462046820
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_30: 389671888
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_31: -1335401568
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_32: -152926423
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_33: 1747475819
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_34: -892549846
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_35: -1118306786
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_36: -74996099
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_37: 559040135
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_38: 723106909
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_39: 1761703224
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_4: 999322588
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_40: 401844258
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_41: 555448693
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_42: -1677497396
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_43: -586504441
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_44: -2113790547
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_45: -1287403334
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_46: -399093445
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_47: 501139728
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_48: 2137815158
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_49: -1978893332
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_5: 832677393
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_50: 561671708
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_51: -1604643321
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_52: -1970693596
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_53: -1694681293
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_54: -1164950741
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_55: -1874302083
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_56: -609122393
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_57: -845600702
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_58: -442291907
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_59: -81276986
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_6: 1830845572
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_60: 653671076
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_61: -565922265
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_62: -1220945488
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_63: -366016651
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_64: -1411221605
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_65: -1758864211
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_66: -355006912
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_67: -1945768130
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_68: -2013008975
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_69: -1898966701
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_7: 419528601
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_70: -1356079680
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_71: -588012576
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_72: 2062323331
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_73: -1710331984
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_74: 473141245
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_75: 1128777725
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_76: -141947289
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_77: 1978986387
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_8: 2071069649
+      PlayStation - Castlevania Symphony of the Night - Castle Doors_9: -1225346143
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

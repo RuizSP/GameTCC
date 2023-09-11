@@ -1,0 +1,41 @@
+<set>
+  <tiles>
+<tile name="tile_17_T" symmetry="T" weight="1,0"/>
+<tile name="tile_16_L" symmetry="T" weight="1,0"/>
+<tile name="tile_18_I" symmetry="I" weight="1,0"/>
+	</tiles>
+<neighbors>  <neighbor left="tile_16_L 0" right="tile_16_L 3"/>
+  <neighbor left="tile_16_L 1" right="tile_17_T 1"/>
+  <neighbor left="tile_16_L 3" right="tile_16_L 0"/>
+  <neighbor left="tile_16_L 0" right="tile_17_T 1"/>
+  <neighbor left="tile_16_L 0" right="tile_17_T 0"/>
+  <neighbor left="tile_16_L 1" right="tile_16_L 2"/>
+  <neighbor left="tile_17_T 0" right="tile_17_T 0"/>
+  <neighbor left="tile_17_T 1" right="tile_17_T 1"/>
+  <neighbor left="tile_17_T 0" right="tile_16_L 3"/>
+  <neighbor left="tile_16_L 0" right="tile_16_L 3"/>
+  <neighbor left="tile_16_L 1" right="tile_17_T 0"/>
+  <neighbor left="tile_16_L 2" right="tile_16_L 1"/>
+  <neighbor left="tile_17_T 1" right="tile_17_T 2"/>
+  <neighbor left="tile_17_T 0" right="tile_16_L 2"/>
+  <neighbor left="tile_16_L 3" right="tile_16_L 0"/>
+  <neighbor left="tile_16_L 0" right="tile_17_T 1"/>
+  <neighbor left="tile_16_L 1" right="tile_18_I 1"/>
+  <neighbor left="tile_17_T 1" right="tile_17_T 0"/>
+  <neighbor left="tile_17_T 2" right="tile_16_L 2"/>
+  <neighbor left="tile_17_T 1" right="tile_16_L 3"/>
+  <neighbor left="tile_17_T 1" right="tile_16_L 2"/>
+  <neighbor left="tile_16_L 0" right="tile_18_I 1"/>
+  <neighbor left="tile_18_I 0" right="tile_16_L 1"/>
+  <neighbor left="tile_18_I 1" right="tile_16_L 2"/>
+  <neighbor left="tile_16_L 1" right="tile_16_L 2"/>
+  <neighbor left="tile_16_L 2" right="tile_18_I 0"/>
+  <neighbor left="tile_16_L 2" right="tile_16_L 1"/>
+  <neighbor left="tile_16_L 3" right="tile_18_I 0"/>
+  <neighbor left="tile_16_L 2" right="tile_18_I 0"/>
+  <neighbor left="tile_18_I 1" right="tile_16_L 3"/>
+  <neighbor left="tile_16_L 1" right="tile_18_I 3"/>
+  <neighbor left="tile_18_I 3" right="tile_18_I 3"/>
+  <neighbor left="tile_18_I 3" right="tile_16_L 2"/>
+	</neighbors>
+</set>
