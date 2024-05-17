@@ -1,2 +1,2 @@
 # GameTCC
-repositório para o jogo que está sendo desenvolvido para meu TCC
+Repositório para o gerador de níveis que foi desenvolvido para meu TCC.
